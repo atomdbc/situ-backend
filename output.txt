@@ -1,0 +1,21 @@
+.
+├── config
+│   └── db.js
+├── controllers
+│   ├── authController.js
+│   └── listingController.js
+├── middleware
+│   └── auth.js
+├── models
+│   ├── Listing.js
+│   └── User.js
+├── output.txt
+├── package-lock.json
+├── package.json
+├── routes
+│   ├── auth.js
+│   └── listings.js
+├── server.js
+└── verse
+
+6 directories, 13 files
